@@ -75,3 +75,7 @@ C言語
    - F/G : ピッチング
    - H/J : ヨーイング
    - K/L : 前進と後退
+
+## 応用
+boxel.c を利用して立方体で構成された大地を掘ったり、掘り出した立方体を積み上げて建造物を作れるゲームを作った（ソースは省略）。\
+[https://www.youtube.com/watch?v=1Hd9WjJX598](https://www.youtube.com/watch?v=1Hd9WjJX598)
